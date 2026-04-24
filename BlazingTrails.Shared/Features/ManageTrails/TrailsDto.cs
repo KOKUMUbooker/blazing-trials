@@ -1,5 +1,8 @@
-﻿using System;
+﻿using FluentValidation;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Data;
 using System.Text;
 
 namespace BlazingTrails.Shared.Features.ManageTrails;
@@ -17,5 +20,26 @@ public class TrailDto
     {
         public int Stage { get; set; }
         public string Description { get; set; } = "";
+    }
+}
+
+public class TrailValidator : AbstractValidator<TrailDto>
+{
+    public TrailValidator()
+    {
+        RuleFor(x => x.Name).NotEmpty().WithMessage("Please enter a name");
+        RuleFor(x => x.Description).NotEmpty().WithMessage("Please enter a description");
+        RuleFor(x => x.Location).NotEmpty().WithMessage("Please enter a location");
+        RuleFor(x => x.Length).GreaterThan(0).WithMessage("Please enter a length");
+        RuleForEach(x => x.Route).SetValidator(new RouteInstructionValidator());
+    }
+}
+
+public class RouteInstructionValidator : AbstractValidator<TrailDto.RouteInstruction>
+{
+    public RouteInstructionValidator()
+    {
+        RuleFor(x => x.Stage).NotEmpty().WithMessage("Please enter a stage");
+        RuleFor(x => x.Description).NotEmpty().WithMessage("Please enter a description");
     }
 }

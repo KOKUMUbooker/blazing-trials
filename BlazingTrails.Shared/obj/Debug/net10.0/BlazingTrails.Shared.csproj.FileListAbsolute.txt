@@ -10,3 +10,4 @@ D:\Projects\BlazingTrails\BlazingTrails.Shared\obj\Debug\net10.0\BlazingTrails.S
 D:\Projects\BlazingTrails\BlazingTrails.Shared\obj\Debug\net10.0\refint\BlazingTrails.Shared.dll
 D:\Projects\BlazingTrails\BlazingTrails.Shared\obj\Debug\net10.0\BlazingTrails.Shared.pdb
 D:\Projects\BlazingTrails\BlazingTrails.Shared\obj\Debug\net10.0\ref\BlazingTrails.Shared.dll
+D:\Projects\BlazingTrails\BlazingTrails.Shared\obj\Debug\net10.0\BlazingTrails.Shared.csproj.AssemblyReference.cache
