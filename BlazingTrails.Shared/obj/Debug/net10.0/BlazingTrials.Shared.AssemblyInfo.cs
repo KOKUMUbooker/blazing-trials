@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazingTrials.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e49f448beb3bc152fdc627690a5f7e9c3d041f80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53de4377cd34f3c2241693014ab41138afc06cef")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazingTrials.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazingTrials.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

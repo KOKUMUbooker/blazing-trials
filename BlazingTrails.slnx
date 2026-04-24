@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="BlazingTrails.Client/BlazingTrails.Client.csproj" />
-  <Project Path="BlazingTrials.Shared/BlazingTrials.Shared.csproj" Id="8ce5595d-f0ff-4c91-9b2e-823d8c62351e" />
+  <Project Path="BlazingTrails.Shared/BlazingTrails.Shared.csproj" />
 </Solution>

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace BlazingTrials.Shared.Features.ManageTrails;
+namespace BlazingTrails.Shared.Features.ManageTrails;
 
 public class TrailDto
 {

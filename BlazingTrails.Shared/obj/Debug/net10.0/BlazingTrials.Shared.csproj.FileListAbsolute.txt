@@ -1,0 +1,12 @@
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\bin\Debug\net10.0\BlazingTrials.Shared.deps.json
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\bin\Debug\net10.0\BlazingTrials.Shared.dll
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\bin\Debug\net10.0\BlazingTrials.Shared.pdb
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.AssemblyInfoInputs.cache
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.AssemblyInfo.cs
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.sourcelink.json
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.dll
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\refint\BlazingTrials.Shared.dll
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\BlazingTrials.Shared.pdb
+D:\Projects\BlazingTrails.Client\BlazingTrials.Shared\obj\Debug\net10.0\ref\BlazingTrials.Shared.dll
